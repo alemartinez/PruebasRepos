@@ -1,4 +1,6 @@
 # PruebasRepos
 Repositorio para practicar
 
-Primera edición
+Primera edición, desde Github web
+
+Segunda Edición desde PC
