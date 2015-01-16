@@ -12,7 +12,7 @@ I don't know what to do with flash cards.
 
 
 
-* Ten Rules of bad studying *
+# Ten Rules of bad studying #
 
 
 
